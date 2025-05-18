@@ -1,4 +1,4 @@
 MBB01,ACC001,New Account Opened
 MBB02,ACC002,Account Terminated
 MBB03,ACC003,Account Closed
-MBB04,ACC004,Account Terminated
+MBB04,ACC004,Account Suspended
