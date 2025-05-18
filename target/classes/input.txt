@@ -1,0 +1,4 @@
+CUST001,ACC001,New Account Opened
+CUST002,ACC002,Updated Description
+CUST003,ACC003,Account Closed
+CUST004,ACC004,Account Terminated
